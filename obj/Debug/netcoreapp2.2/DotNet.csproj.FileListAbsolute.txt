@@ -1,0 +1,11 @@
+/home/pranjal/Documents/DotNet/bin/Debug/netcoreapp2.2/DotNet.deps.json
+/home/pranjal/Documents/DotNet/bin/Debug/netcoreapp2.2/DotNet.runtimeconfig.json
+/home/pranjal/Documents/DotNet/bin/Debug/netcoreapp2.2/DotNet.runtimeconfig.dev.json
+/home/pranjal/Documents/DotNet/bin/Debug/netcoreapp2.2/DotNet.dll
+/home/pranjal/Documents/DotNet/bin/Debug/netcoreapp2.2/DotNet.pdb
+/home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.csprojAssemblyReference.cache
+/home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.csproj.CoreCompileInputs.cache
+/home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.AssemblyInfoInputs.cache
+/home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.AssemblyInfo.cs
+/home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.dll
+/home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.pdb
