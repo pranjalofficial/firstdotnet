@@ -9,3 +9,9 @@
 /home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.AssemblyInfo.cs
 /home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.dll
 /home/pranjal/Documents/DotNet/obj/Debug/netcoreapp2.2/DotNet.pdb
+/home/pranjal/Documents/newdotnetapp/obj/Debug/netcoreapp2.2/DotNet.csprojAssemblyReference.cache
+/home/pranjal/Documents/newdotnetapp/obj/Debug/netcoreapp2.2/DotNet.csproj.CoreCompileInputs.cache
+/home/pranjal/Documents/newdotnetapp/obj/Debug/netcoreapp2.2/DotNet.AssemblyInfoInputs.cache
+/home/pranjal/Documents/newdotnetapp/obj/Debug/netcoreapp2.2/DotNet.AssemblyInfo.cs
+/home/pranjal/Documents/newdotnetapp/obj/Debug/netcoreapp2.2/DotNet.dll
+/home/pranjal/Documents/newdotnetapp/obj/Debug/netcoreapp2.2/DotNet.pdb

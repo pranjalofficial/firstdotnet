@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pranjal/Documents/DotNet/DotNet.csproj",
+      "projectUniqueName": "/home/pranjal/Documents/newdotnetapp/DotNet.csproj",
       "projectName": "DotNet",
-      "projectPath": "/home/pranjal/Documents/DotNet/DotNet.csproj",
+      "projectPath": "/home/pranjal/Documents/newdotnetapp/DotNet.csproj",
       "packagesPath": "/home/pranjal/.nuget/packages/",
-      "outputPath": "/home/pranjal/Documents/DotNet/obj/",
+      "outputPath": "/home/pranjal/Documents/newdotnetapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pranjal/.nuget/NuGet/NuGet.Config"
